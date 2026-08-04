@@ -8,7 +8,7 @@
 
 ## 🚀 Updates  
 We're committed to open science! Here's our progress:
-* **2025/11/19**: More comprehensive, realistic, and flexible anomaly synthesis framework will be open-sourced in our upcoming work!
+* **2026/04/06**: 🎉 We released **Synthesis4AD**, a comprehensive, realistic, and flexible anomaly synthesis framework for 3D anomaly detection. The paper and code are now publicly available. [[Paper](https://arxiv.org/abs/2604.04658)] [[Code](https://github.com/hustCYQ/Synthesis4AD)]
 * **2025/11/19**: 🎉 Code of Simple3D is available.
 * **2025/11/08**: 🎉 Our paper has been accepted by AAAI 2026 (Oral). 
 * **2025/07/10**: 📄 Paper released on [ArXiv](https://arxiv.org/abs/2507.07435).  
@@ -100,12 +100,15 @@ Grateful to these projects for inspiration:
 ## 📖 Citation  
 If our work aids your research, please cite:  
 ```bibtex  
-@article{MiniShift_Simple3D,  
-  title={Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects},
+@inproceedings{cheng2026towards,
+  title={Towards high-resolution 3d anomaly detection: A scalable dataset and real-time framework for subtle industrial defects},
   author={Cheng, Yuqi and Sun, Yihan and Zhang, Hui and Shen, Weiming and Cao, Yunkang},
-  journal={arXiv preprint arXiv:2507.07435},
-  year={2025}
-}  
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={5},
+  pages={3327--3334},
+  year={2026}
+}
 ```  
 
 ## Contact
