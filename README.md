@@ -8,7 +8,7 @@
 
 ## 🚀 Updates  
 We're committed to open science! Here's our progress:
-* **2026/04/06**: 🎉 [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](https://arxiv.org/abs/2604.04658) is released, and the [code is now available](https://github.com/hustCYQ/Synthesis4AD)!
+* **2026/04/06**: 🎉 We released **Synthesis4AD**, a comprehensive, realistic, and flexible anomaly synthesis framework for 3D anomaly detection. The paper and code are now publicly available. [[Paper](https://arxiv.org/abs/2604.04658)] [[Code](https://github.com/hustCYQ/Synthesis4AD)]
 * **2025/11/19**: 🎉 Code of Simple3D is available.
 * **2025/11/08**: 🎉 Our paper has been accepted by AAAI 2026 (Oral). 
 * **2025/07/10**: 📄 Paper released on [ArXiv](https://arxiv.org/abs/2507.07435).  
